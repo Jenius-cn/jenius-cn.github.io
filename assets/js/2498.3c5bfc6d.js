@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjenius_web_guidebook=self.webpackChunkjenius_web_guidebook||[]).push([[2498],{2498:(e,u,s)=>{s.d(u,{createArchitectureServices:()=>c.S});var c=s(3009);s(8198)}}]);

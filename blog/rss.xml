@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Jenius 快捷使用指南 Blog</title>
+        <link>https://www.jenius.cn/blog/</link>
+        <description>Jenius 快捷使用指南 Blog</description>
+        <lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[v2.0.0 2025-09-16]]></title>
+            <link>https://www.jenius.cn/blog/release-v2.0.0/</link>
+            <guid>https://www.jenius.cn/blog/release-v2.0.0/</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jenius v2.0.0 最新发布.]]></description>
+            <content:encoded><![CDATA[<p>修复了一些已知问题。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="新功能">新功能<a href="https://www.jenius.cn/blog/release-v2.0.0/#%E6%96%B0%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="新功能的直接链接" title="新功能的直接链接">​</a></h3>
+<p>♥ 支持书签的默认配置文件</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="问题修复">问题修复<a href="https://www.jenius.cn/blog/release-v2.0.0/#%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="问题修复的直接链接" title="问题修复的直接链接">​</a></h3>
+<p>♥ 修复书签表单的终端背景配置
+♥ 修复 ssh 配置加载功能</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="代码改进">代码改进<a href="https://www.jenius.cn/blog/release-v2.0.0/#%E4%BB%A3%E7%A0%81%E6%94%B9%E8%BF%9B" class="hash-link" aria-label="代码改进的直接链接" title="代码改进的直接链接">​</a></h3>
+<p>♥ 通过移除未使用的属性改进书签数据大小</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.8.0 2025-08-15]]></title>
+            <link>https://www.jenius.cn/blog/release-v1..0/</link>
+            <guid>https://www.jenius.cn/blog/release-v1..0/</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[.]]></description>
+            <content:encoded><![CDATA[<p>新增了xx功能。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="新功能">新功能<a href="https://www.jenius.cn/blog/release-v1..0/#%E6%96%B0%E5%8A%9F%E8%83%BD" class="hash-link" aria-label="新功能的直接链接" title="新功能的直接链接">​</a></h3>
+<p>♥ 支持书签的默认配置文件</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="问题修复">问题修复<a href="https://www.jenius.cn/blog/release-v1..0/#%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D" class="hash-link" aria-label="问题修复的直接链接" title="问题修复的直接链接">​</a></h3>
+<p>♥ 修复书签表单的终端背景配置
+♥ 修复 ssh 配置加载功能</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="代码改进">代码改进<a href="https://www.jenius.cn/blog/release-v1..0/#%E4%BB%A3%E7%A0%81%E6%94%B9%E8%BF%9B" class="hash-link" aria-label="代码改进的直接链接" title="代码改进的直接链接">​</a></h3>
+<p>♥ 通过移除未使用的属性改进书签数据大小</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjenius_web_guidebook=self.webpackChunkjenius_web_guidebook||[]).push([[8716],{8716:(e,s,u)=>{u.d(s,{createPacketServices:()=>k.$});var k=u(9811);u(8198)}}]);
